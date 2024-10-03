@@ -2,7 +2,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sofidevo&label=Profile%20views&color=0e75b6&style=flat" alt="sofidevo" /></p>
 <h1 align="center">Hi 💛, I'm Abhay Kumar</h1>
-<h4 align="center">HTML, CSS, Javascript, React, Astro, Wordpress/ Sass, Styled components</h3>
+<h4 align="center">HTML, CSS, Javascript, React, Styled components</h3>
   <br>
 
   <h3 align="center">Languages and Tools:</h3>
@@ -53,12 +53,4 @@
 </div>
 
 
-<table align="center" >
- <tr>
-  <th>
-   <h3 align="left">Connect with me:</h3>
-  </th>
-  <th></th>
- </tr>
-</table>
 
