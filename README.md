@@ -67,9 +67,9 @@
 
 ### 📫 Connect with me
 
-- ✉️ Email: **your-email-here**
-- 💼 Portfolio / Website: **link-here**
-- 💻 LinkedIn / Twitter / GitHub: **add links if you want**
+- ✉️ Email: kumarabhay401@gmail.com
+- 💼 Portfolio / Website: https://abhay-kumar-front-end-engineer.vercel.app
+- 💻 LinkedIn / Twitter / GitHub: https://www.linkedin.com/in/abhay1kumar97
 
 ---
 
