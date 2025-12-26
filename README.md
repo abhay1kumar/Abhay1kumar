@@ -1,11 +1,22 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=sofidevo&label=Profile%20views&color=0e75b6&style=flat" alt="sofidevo" />
+</p>
 
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sofidevo&label=Profile%20views&color=0e75b6&style=flat" alt="sofidevo" /></p>
 <h1 align="center">Hi 💛, I'm Abhay Kumar</h1>
-<h4 align="center">HTML, CSS, Javascript, React, Styled components</h3>
-  <br>
+<h3 align="center">Front-End Developer | React • JavaScript • UI enthusiast</h3>
 
-  <h3 align="center">Languages and Tools:</h3>
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on **React and modern Front-End applications**
+- 🌱 Learning and improving **Advanced React, Performance Optimization, and UI/UX**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind, Styled-Components**
+- ⚡ Fun fact: **I enjoy building clean, minimal UIs**
+
+---
+
+### 🛠️ Tech Stack — Languages & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -52,5 +63,14 @@
   <img width="12" />
 </div>
 
+---
 
+### 📫 Connect with me
 
+- ✉️ Email: **your-email-here**
+- 💼 Portfolio / Website: **link-here**
+- 💻 LinkedIn / Twitter / GitHub: **add links if you want**
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!
