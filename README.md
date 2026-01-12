@@ -1,10 +1,23 @@
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sofidevo&label=Profile%20views&color=0e75b6&style=flat" alt="sofidevo" /></p>
-<h1 align="center">Hi 💛, I'm Abhay Kumar</h1>
-<h4 align="center">HTML, CSS, Javascript, React, Styled components</h3>
-  <br>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=sofidevo&label=Profile%20views&color=0e75b6&style=flat" alt="sofidevo" />
+</p>
 
-  <h3 align="center">Languages and Tools:</h3>
+<h1 align="center">Hi 💛, I'm Abhay Kumar</h1>
+<h3 align="center">Front-End Developer | React • JavaScript • UI enthusiast</h3>
+
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on **React and modern Front-End applications**
+- 🌱 Learning and improving **Advanced React, Performance Optimization, and UI/UX**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind, Styled-Components**
+- ⚡ Fun fact: **I enjoy building clean, minimal UIs**
+
+---
+
+### 🛠️ Tech Stack — Languages & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -13,9 +26,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
@@ -51,3 +64,14 @@
   <img width="12" />
 </div>
 
+---
+
+### 📫 Connect with me
+
+- ✉️ Email: kumarabhay401@gmail.com
+- 💼 Portfolio / Website: https://abhay-kumar-front-end-engineer.vercel.app
+- 💻 LinkedIn / Twitter / GitHub: https://www.linkedin.com/in/abhay1kumar97
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories
